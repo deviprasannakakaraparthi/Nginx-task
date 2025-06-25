@@ -16,3 +16,4 @@ You can Acess the services-
 How to run :
 Clone the repo 
 Run - docker-compose up --build
+Docker compose file link -https://github.com/deviprasannakakaraparthi/Nginx-task/blob/master/docker-compose.yml
